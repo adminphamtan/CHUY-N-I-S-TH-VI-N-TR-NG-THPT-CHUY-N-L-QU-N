@@ -1,0 +1,5 @@
+{
+  "name": "Thư viện số THPT",
+  "description": "Một ứng dụng web giúp số hóa và quản lý thư viện cho các trường trung học phổ thông, sử dụng AI để tự động tạo tóm tắt sách.",
+  "requestFramePermissions": []
+}
